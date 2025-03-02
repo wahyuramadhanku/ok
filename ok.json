@@ -2,13 +2,13 @@
     
     {
         "number": 90,
-        "url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/ANTV\/sa_dash_vmx\/ANTV.mpd",
+        "url": "https://cempedak-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd",
         "logo": "https:\/\/i.ibb.co\/bQvyMnY\/antv.png",
         "group": "CHANNEL | INDONESIA",
         "format": "mpd",
         "name": "ANTV 🇮🇩",
         "referrer": "https:\/\/www.visionplus.id\/\r",
-        "license_type": "com.widevine.alpha\r",
-        "license_key": "https://cempedak-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd"
+        "license_type": "com.widevine.alpha",
+        "license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi"
     }
 ]
