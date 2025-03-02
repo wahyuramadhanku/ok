@@ -2,7 +2,7 @@
     
        {
         "number": 756,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/RCTI-DD\/sa_dash_vmx\/RCTI-DD.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/RCTI-DD\/sa_dash_vmx\/RCTI-DD.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -13,7 +13,7 @@
     },
     {
         "number": 757,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/MNCTV-HD\/sa_dash_vmx\/MNCTV-HD.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/MNCTV-HD\/sa_dash_vmx\/MNCTV-HD.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -24,7 +24,7 @@
     },
     {
         "number": 758,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/GTV-HD\/sa_dash_vmx\/GTV-HD.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/GTV-HD\/sa_dash_vmx\/GTV-HD.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -35,7 +35,7 @@
     },
     {
         "number": 759,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/iNewsTV-HDD\/sa_dash_vmx\/iNewsTV-HDD.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/iNewsTV-HDD\/sa_dash_vmx\/iNewsTV-HDD.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -46,7 +46,7 @@
     },
     {
         "number": 760,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/TVOne\/sa_dash_vmx\/TVOne.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/TVOne\/sa_dash_vmx\/TVOne.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -57,7 +57,7 @@
     },
     {
         "number": 761,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/ANTV\/sa_dash_vmx\/ANTV.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/ANTV\/sa_dash_vmx\/ANTV.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -68,7 +68,7 @@
     },
     {
         "number": 762,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/TransTV-2\/sa_dash_vmx\/TransTV-2.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/TransTV-2\/sa_dash_vmx\/TransTV-2.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -79,7 +79,7 @@
     },
     {
         "number": 763,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/Trans7-2\/sa_dash_vmx\/Trans7-2.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/Trans7-2\/sa_dash_vmx\/Trans7-2.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -90,7 +90,7 @@
     },
     {
         "number": 764,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/Metro-TV2\/sa_dash_vmx\/Metro-TV2.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/Metro-TV2\/sa_dash_vmx\/Metro-TV2.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -101,7 +101,7 @@
     },
     {
         "number": 765,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/KompasTV\/sa_dash_vmx\/KompasTV.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/KompasTV\/sa_dash_vmx\/KompasTV.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -112,7 +112,7 @@
     },
     {
         "number": 766,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/NetTV-HD\/sa_dash_vmx\/NetTV-HD.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/NetTV-HD\/sa_dash_vmx\/NetTV-HD.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -123,7 +123,7 @@
     },
     {
         "number": 767,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/RTV\/sa_dash_vmx\/RTV.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/RTV\/sa_dash_vmx\/RTV.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -145,7 +145,7 @@
     },
     {
         "number": 769,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/Animax\/sa_dash_vmx\/Animax.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/Animax\/sa_dash_vmx\/Animax.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -156,7 +156,7 @@
     },
     {
         "number": 770,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/BabyTV-NewHD\/sa_dash_vmx\/BabyTV-NewHD.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/BabyTV-NewHD\/sa_dash_vmx\/BabyTV-NewHD.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -167,7 +167,7 @@
     },
     {
         "number": 771,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/BeSmart\/sa_dash_vmx\/BeSmart.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/BeSmart\/sa_dash_vmx\/BeSmart.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -178,7 +178,7 @@
     },
     {
         "number": 772,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/Cbeebies\/sa_dash_vmx\/Cbeebies.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/Cbeebies\/sa_dash_vmx\/Cbeebies.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -189,7 +189,7 @@
     },
     {
         "number": 773,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/KidsChannel\/sa_dash_vmx\/KidsChannel.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/KidsChannel\/sa_dash_vmx\/KidsChannel.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -200,7 +200,7 @@
     },
     {
         "number": 774,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/MiaoMi\/sa_dash_vmx\/MiaoMi.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/MiaoMi\/sa_dash_vmx\/MiaoMi.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -211,7 +211,7 @@
     },
     {
         "number": 775,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/NickJr-HDD\/sa_dash_vmx\/NickJr-HDD.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/NickJr-HDD\/sa_dash_vmx\/NickJr-HDD.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -222,7 +222,7 @@
     },
     {
         "number": 776,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/Nickelodeon\/sa_dash_vmx\/Nickelodeon.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/Nickelodeon\/sa_dash_vmx\/Nickelodeon.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -233,7 +233,7 @@
     },
     {
         "number": 777,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/AlJazeeraInternational\/sa_dash_vmx\/AlJazeeraInternational.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/AlJazeeraInternational\/sa_dash_vmx\/AlJazeeraInternational.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -244,7 +244,7 @@
     },
     {
         "number": 778,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/BBCWorldNews\/sa_dash_vmx\/BBCWorldNews.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/BBCWorldNews\/sa_dash_vmx\/BBCWorldNews.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -255,7 +255,7 @@
     },
     {
         "number": 779,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/Bloomberg\/sa_dash_vmx\/Bloomberg.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/Bloomberg\/sa_dash_vmx\/Bloomberg.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -266,7 +266,7 @@
     },
     {
         "number": 780,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/CGTN\/sa_dash_vmx\/CGTN.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/CGTN\/sa_dash_vmx\/CGTN.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -277,7 +277,7 @@
     },
     {
         "number": 781,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/CNBC\/sa_dash_vmx\/CNBC.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/CNBC\/sa_dash_vmx\/CNBC.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -288,7 +288,7 @@
     },
     {
         "number": 782,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/DW\/sa_dash_vmx\/DW.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/DW\/sa_dash_vmx\/DW.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -299,7 +299,7 @@
     },
     {
         "number": 783,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/EuroNews\/sa_dash_vmx\/EuroNews.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/EuroNews\/sa_dash_vmx\/EuroNews.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -310,7 +310,7 @@
     },
     {
         "number": 784,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/FoxNews\/sa_dash_vmx\/FoxNews.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/FoxNews\/sa_dash_vmx\/FoxNews.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -321,7 +321,7 @@
     },
     {
         "number": 785,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/France24\/sa_dash_vmx\/France24.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/France24\/sa_dash_vmx\/France24.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -332,7 +332,7 @@
     },
     {
         "number": 786,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/IDX\/sa_dash_vmx\/IDX.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/IDX\/sa_dash_vmx\/IDX.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -343,7 +343,7 @@
     },
     {
         "number": 787,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/MNCnews-HDD\/sa_dash_vmx\/MNCnews-HDD.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/MNCnews-HDD\/sa_dash_vmx\/MNCnews-HDD.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -354,7 +354,7 @@
     },
     {
         "number": 788,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/NHKWorldTV\/sa_dash_vmx\/NHKWorldTV.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/NHKWorldTV\/sa_dash_vmx\/NHKWorldTV.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -365,7 +365,7 @@
     },
     {
         "number": 789,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/NHKWorldPremium\/sa_dash_vmx\/NHKWorldPremium.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/NHKWorldPremium\/sa_dash_vmx\/NHKWorldPremium.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -376,7 +376,7 @@
     },
     {
         "number": 790,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/RTEnglish\/sa_dash_vmx\/RTEnglish.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/RTEnglish\/sa_dash_vmx\/RTEnglish.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -387,7 +387,7 @@
     },
     {
         "number": 791,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/TV5\/sa_dash_vmx\/TV5.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/TV5\/sa_dash_vmx\/TV5.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -398,7 +398,7 @@
     },
     {
         "number": 792,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/TRTWorld\/sa_dash_vmx\/TRTWorld.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/TRTWorld\/sa_dash_vmx\/TRTWorld.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -409,7 +409,7 @@
     },
     {
         "number": 793,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/BBCEarth-HD\/sa_dash_vmx\/BBCEarth-HD.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/BBCEarth-HD\/sa_dash_vmx\/BBCEarth-HD.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -420,7 +420,7 @@
     },
     {
         "number": 794,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/BeSmart\/sa_dash_vmx\/BeSmart.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/BeSmart\/sa_dash_vmx\/BeSmart.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -431,7 +431,7 @@
     },
     {
         "number": 795,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/CGTN_Doc\/sa_dash_vmx\/CGTN_Doc.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/CGTN_Doc\/sa_dash_vmx\/CGTN_Doc.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -442,7 +442,7 @@
     },
     {
         "number": 796,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/CrimeInvestigation\/sa_dash_vmx\/CrimeInvestigation.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/CrimeInvestigation\/sa_dash_vmx\/CrimeInvestigation.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -453,7 +453,7 @@
     },
     {
         "number": 797,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/History\/sa_dash_vmx\/History.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/History\/sa_dash_vmx\/History.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -464,7 +464,7 @@
     },
     {
         "number": 798,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/NatGeoChannel\/sa_dash_vmx\/NatGeoChannel.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/NatGeoChannel\/sa_dash_vmx\/NatGeoChannel.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -475,7 +475,7 @@
     },
     {
         "number": 799,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/NatGeoWild\/sa_dash_vmx\/NatGeoWild.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/NatGeoWild\/sa_dash_vmx\/NatGeoWild.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -486,7 +486,7 @@
     },
     {
         "number": 800,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/CelestialClassic\/sa_dash_vmx\/CelestialClassic.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/CelestialClassic\/sa_dash_vmx\/CelestialClassic.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -497,7 +497,7 @@
     },
     {
         "number": 801,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/CelestialMovie\/sa_dash_vmx\/CelestialMovie.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/CelestialMovie\/sa_dash_vmx\/CelestialMovie.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -508,7 +508,7 @@
     },
     {
         "number": 802,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/CinemaWorld\/sa_dash_vmx\/CinemaWorld.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/CinemaWorld\/sa_dash_vmx\/CinemaWorld.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -519,7 +519,7 @@
     },
     {
         "number": 803,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/Galaxy-HD\/sa_dash_vmx\/Galaxy-HD.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/Galaxy-HD\/sa_dash_vmx\/Galaxy-HD.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -530,7 +530,7 @@
     },
     {
         "number": 804,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/GalaxyPremium-HD\/sa_dash_vmx\/GalaxyPremium-HD.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/GalaxyPremium-HD\/sa_dash_vmx\/GalaxyPremium-HD.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -541,7 +541,7 @@
     },
     {
         "number": 805,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/HitsMovies\/sa_dash_vmx\/HitsMovies.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/HitsMovies\/sa_dash_vmx\/HitsMovies.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -552,7 +552,7 @@
     },
     {
         "number": 806,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/IndonesiaMovieChannels-HD\/sa_dash_vmx\/IndonesiaMovieChannels-HD.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/IndonesiaMovieChannels-HD\/sa_dash_vmx\/IndonesiaMovieChannels-HD.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -563,7 +563,7 @@
     },
     {
         "number": 807,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/Thrill\/sa_dash_vmx\/Thrill.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/Thrill\/sa_dash_vmx\/Thrill.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -574,7 +574,7 @@
     },
     {
         "number": 808,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/tvNMovies\/sa_dash_vmx\/tvNMovies.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/tvNMovies\/sa_dash_vmx\/tvNMovies.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -585,7 +585,7 @@
     },
     {
         "number": 809,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/ZeeBIOSKOP\/sa_dash_vmx\/ZeeBIOSKOP.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/ZeeBIOSKOP\/sa_dash_vmx\/ZeeBIOSKOP.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -596,7 +596,7 @@
     },
     {
         "number": 810,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/Cinemachi-HD\/sa_dash_vmx\/Cinemachi-HD.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/Cinemachi-HD\/sa_dash_vmx\/Cinemachi-HD.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -607,7 +607,7 @@
     },
     {
         "number": 811,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/Cinemachi-Action\/sa_dash_vmx\/Cinemachi-Action.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/Cinemachi-Action\/sa_dash_vmx\/Cinemachi-Action.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -618,7 +618,7 @@
     },
     {
         "number": 812,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/Cinemachi-Max-HD\/sa_dash_vmx\/Cinemachi-Max-HD.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/Cinemachi-Max-HD\/sa_dash_vmx\/Cinemachi-Max-HD.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -629,7 +629,7 @@
     },
     {
         "number": 813,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/Cinemachi-Xtra-HD\/sa_dash_vmx\/Cinemachi-Xtra-HD.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/Cinemachi-Xtra-HD\/sa_dash_vmx\/Cinemachi-Xtra-HD.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -640,7 +640,7 @@
     },
     {
         "number": 814,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/Cinemachi-Kids-HD\/sa_dash_vmx\/Cinemachi-Kids-HD.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/Cinemachi-Kids-HD\/sa_dash_vmx\/Cinemachi-Kids-HD.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -651,7 +651,7 @@
     },
     {
         "number": 815,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/AnhuiTV\/sa_dash_vmx\/AnhuiTV.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/AnhuiTV\/sa_dash_vmx\/AnhuiTV.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -662,7 +662,7 @@
     },
     {
         "number": 816,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/Arirang\/sa_dash_vmx\/Arirang.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/Arirang\/sa_dash_vmx\/Arirang.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -673,7 +673,7 @@
     },
     {
         "number": 817,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/AXN\/sa_dash_vmx\/AXN.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/AXN\/sa_dash_vmx\/AXN.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -684,7 +684,7 @@
     },
     {
         "number": 818,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/MNCEntertainment\/sa_dash_vmx\/MNCEntertainment.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/MNCEntertainment\/sa_dash_vmx\/MNCEntertainment.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -695,7 +695,7 @@
     },
     {
         "number": 819,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/FMN\/sa_dash_vmx\/FMN.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/FMN\/sa_dash_vmx\/FMN.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -706,7 +706,7 @@
     },
     {
         "number": 820,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/HITS\/sa_dash_vmx\/HITS.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/HITS\/sa_dash_vmx\/HITS.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -717,7 +717,7 @@
     },
     {
         "number": 821,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/HunanTV\/sa_dash_vmx\/HunanTV.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/HunanTV\/sa_dash_vmx\/HunanTV.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -728,7 +728,7 @@
     },
     {
         "number": 822,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/JiangsuTV\/sa_dash_vmx\/JiangsuTV.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/JiangsuTV\/sa_dash_vmx\/JiangsuTV.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -739,7 +739,7 @@
     },
     {
         "number": 823,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/KIX\/sa_dash_vmx\/KIX.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/KIX\/sa_dash_vmx\/KIX.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -750,7 +750,7 @@
     },
     {
         "number": 824,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/OKTV\/sa_dash_vmx\/OKTV.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/OKTV\/sa_dash_vmx\/OKTV.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -761,7 +761,7 @@
     },
     {
         "number": 825,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/SetOne\/sa_dash_vmx\/SetOne.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/SetOne\/sa_dash_vmx\/SetOne.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -772,7 +772,7 @@
     },
     {
         "number": 826,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/ShanghaiDragonTV\/sa_dash_vmx\/ShanghaiDragonTV.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/ShanghaiDragonTV\/sa_dash_vmx\/ShanghaiDragonTV.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -783,7 +783,7 @@
     },
     {
         "number": 827,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/tvN\/sa_dash_vmx\/tvN.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/tvN\/sa_dash_vmx\/tvN.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -794,7 +794,7 @@
     },
     {
         "number": 828,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/VisionPrime\/sa_dash_vmx\/VisionPrime.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/VisionPrime\/sa_dash_vmx\/VisionPrime.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -805,7 +805,7 @@
     },
     {
         "number": 829,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/XingKongTV\/sa_dash_vmx\/XingKongTV.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/XingKongTV\/sa_dash_vmx\/XingKongTV.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -816,7 +816,7 @@
     },
     {
         "number": 830,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/MNCInfotainment\/sa_dash_vmx\/MNCInfotainment.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/MNCInfotainment\/sa_dash_vmx\/MNCInfotainment.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -827,7 +827,7 @@
     },
     {
         "number": 831,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/LifeStyleFashion\/sa_dash_vmx\/LifeStyleFashion.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/LifeStyleFashion\/sa_dash_vmx\/LifeStyleFashion.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -838,7 +838,7 @@
     },
     {
         "number": 832,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/Lifetime\/sa_dash_vmx\/Lifetime.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/Lifetime\/sa_dash_vmx\/Lifetime.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -849,7 +849,7 @@
     },
     {
         "number": 833,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/MNCSports-HD\/sa_dash_vmx\/MNCSports-HD.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/MNCSports-HD\/sa_dash_vmx\/MNCSports-HD.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -860,7 +860,7 @@
     },
     {
         "number": 834,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/MNCSports2-HD\/sa_dash_vmx\/MNCSports2-HD.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/MNCSports2-HD\/sa_dash_vmx\/MNCSports2-HD.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -871,7 +871,7 @@
     },
     {
         "number": 835,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/MNCSports3-HD\/sa_dash_vmx\/MNCSports3-HD.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/MNCSports3-HD\/sa_dash_vmx\/MNCSports3-HD.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -882,7 +882,7 @@
     },
     {
         "number": 836,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/FightSports\/sa_dash_vmx\/FightSports.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/FightSports\/sa_dash_vmx\/FightSports.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -893,7 +893,7 @@
     },
     {
         "number": 837,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/soccerchannel-HD\/sa_dash_vmx\/soccerchannel-HD.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/soccerchannel-HD\/sa_dash_vmx\/soccerchannel-HD.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -904,7 +904,7 @@
     },
     {
         "number": 838,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/SPOTV-HD\/sa_dash_vmx\/SPOTV-HD.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/SPOTV-HD\/sa_dash_vmx\/SPOTV-HD.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -915,7 +915,7 @@
     },
     {
         "number": 839,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/SPOTV2-HD\/sa_dash_vmx\/SPOTV2-HD.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/SPOTV2-HD\/sa_dash_vmx\/SPOTV2-HD.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -926,7 +926,7 @@
     },
     {
         "number": 840,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/MusicChannel\/sa_dash_vmx\/MusicChannel.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/MusicChannel\/sa_dash_vmx\/MusicChannel.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -937,7 +937,7 @@
     },
     {
         "number": 841,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/MTV\/sa_dash_vmx\/MTV.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/MTV\/sa_dash_vmx\/MTV.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -948,7 +948,7 @@
     },
     {
         "number": 842,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/MNCMuslim\/sa_dash_vmx\/MNCMuslim.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/MNCMuslim\/sa_dash_vmx\/MNCMuslim.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -959,7 +959,7 @@
     },
     {
         "number": 843,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/TawafTV\/sa_dash_vmx\/TawafTV.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/TawafTV\/sa_dash_vmx\/TawafTV.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
@@ -970,7 +970,7 @@
     },
     {
         "number": 844,
-        "url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/AustraliaPlus\/sa_dash_vmx\/AustraliaPlus.mpd",
+        "url": "https:\/\/cempedak-live-cdn/live\/eds\/AustraliaPlus\/sa_dash_vmx\/AustraliaPlus.mpd",
         "logo": "https:\/\/raw.githubusercontent.com\/MayToko\/Kopi\/main\/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
