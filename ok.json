@@ -860,14 +860,14 @@
     },
     {
         "number": 834,
-        "url": "https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd",
+        "url": "https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/",
         "logo": "https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
         "name": "Sportstars 2",
         "referrer": "https://visionplus.id",
-        "license_type": "com.widevine.alpha",
-        "license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi"
+        "license_type": "clearkey",
+        "license_key": "45fec91ce1f19b6b1f31d69dcfaaf6cd"
     },
     {
         "number": 835,
