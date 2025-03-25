@@ -860,7 +860,7 @@
     },
     {
         "number": 834,
-        "url": "https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/",
+        "url": "https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd",
         "logo": "https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
