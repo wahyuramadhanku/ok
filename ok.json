@@ -2,13 +2,13 @@
     
        {
         "number": 756,
-        "url": "https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd",
+        "url": "https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd",
         "logo": "https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
-        "name": "RCTI",
-        "referrer": "https://visionplus.id",
-        "license_type": "com.widevine.alpha",
-        "license_key": "https://vision.2025stviptv.workers.dev/?id=112"
+        "name": "RCTI2",
+        "referrer": "https://www.visionplus.id/",
+        "license_type": "clearkey",
+        "license_key": "45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d"
     } 
 ]
