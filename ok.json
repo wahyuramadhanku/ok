@@ -860,14 +860,14 @@
     },
     {
         "number": 834,
-        "url": "https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd",
+        "url": "https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd",
         "logo": "https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",
         "group": "CHANNEL | VISION+",
         "format": "mpd",
         "name": "Sportstars 2",
         "referrer": "https://visionplus.id",
-        "license_type": "clearkey",
-        "license_key": "3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298"
+        "license_type": "com.widevine.alpha",
+        "license_key": "https://vision.2025stviptv.workers.dev/?id=112"
     },
     {
         "number": 835,
